@@ -1,4 +1,4 @@
-export class WorkShop {
+export class Workshop {
     id: number;
     fullname: string;
     address: string;
